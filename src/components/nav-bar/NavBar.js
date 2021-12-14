@@ -10,7 +10,7 @@ const NavBar = ({sideBarClickHandler}) => {
             <div className='nav-bar__toggle-button'>
                 <SideBarToggleButton click={sideBarClickHandler}/>
             </div>
-            <div className='nav-bar__logo'><Link to="/">Alberto Ian Cruz Salaman</Link></div>
+            <div className='nav-bar__logo'><Link to="/personal-page">Alberto Cruz</Link></div>
             <div className='spacer'/>
             <div className='nav-bar__items'>
                 <ul>

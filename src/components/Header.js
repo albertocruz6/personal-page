@@ -1,11 +1,10 @@
 import React,  { useState }  from 'react'
-import PropTypes from 'prop-types'
 import NavBar from './nav-bar/NavBar'
 import SideBar from './side-bar/SideBar'
 import Backdrop from './backdrop/Backdrop'
 
 
-const Header = ({title}) => {
+const Header = () => {
 
     const[sideDrawOpen, setSideDrawOpen] = useState(false)
 
@@ -31,13 +30,4 @@ const Header = ({title}) => {
         </header>
     )
 }
-
-Header.defaultProps = {
-    title: "Alberto Ian Cruz Salaman",
-}
-
-Header.propTypes = {
-    title: PropTypes.string.isRequired,
-}
-
 export default Header

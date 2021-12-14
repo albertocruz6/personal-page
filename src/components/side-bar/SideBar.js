@@ -11,7 +11,7 @@ const SideBar = ({show}) => {
     return (
         <nav className={drawerClasses}>
             <ul>
-                <li><Link to="/">Home</Link></li>
+                <li><Link to="/personal-page">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
                 <li><Link to="/projects">Projects</Link></li>
             </ul>
