@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <div className='footer'>
+        <div className='footer' style={{paddingTop:'60px'}}>
             <p>Copyright &copy; 2021</p>
             <div/>
             <div className='contact-container'>

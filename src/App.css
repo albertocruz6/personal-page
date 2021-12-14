@@ -2,10 +2,15 @@
     text-align: center;
     width: 100%;
     height: 55px;
-    position:absolute;
+    /* position:absolute; */
     left:0;
     bottom:0;
     right:0;
+}
+
+.footer a:hover,
+.footer a:active {
+    color: tomato;
 }
 
 .contact-container {
@@ -17,7 +22,7 @@
 }
 
 
-#watermark { position: fixed; top: 35%;
+#watermark { position: absolute; top: 35%;
     left: 35%;  font-size: 100px; opacity: 0.5; white-space: nowrap;
 }
 
@@ -33,3 +38,7 @@ body {
     background-color:black;
 }
   
+
+.container {
+    min-height: calc(100vh - 170px);
+}
