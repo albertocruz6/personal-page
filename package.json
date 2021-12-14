@@ -1,6 +1,6 @@
 {
-  "name": "test-page",
-  "homepage": "https://albertocruz6.github.io/test-page",
+  "name": "personal-page",
+  "homepage": "https://albertocruz6.github.io/personal-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
