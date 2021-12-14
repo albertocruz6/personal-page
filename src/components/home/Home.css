@@ -4,6 +4,6 @@
 
 }
 
-.home-container h1 { 
+.home-container #welcome-tag { 
     font-size: 60px;
 }

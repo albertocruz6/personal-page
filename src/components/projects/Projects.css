@@ -1,0 +1,6 @@
+.projects-container {
+    padding: 4rem 8rem;
+}
+.projects-container #projects-tag {
+    font-size: 60px;
+}
