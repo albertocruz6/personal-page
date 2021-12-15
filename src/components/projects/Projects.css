@@ -17,6 +17,10 @@
     margin: 140px;
 }
 
-#pes-logo {
-    border-radius: 10%;
+
+.pes-image:hover,
+.pes-image:active,
+.aon-image:hover,
+.aon-image:active {
+   background: rgba(64, 64, 65, 0.3);
 }
