@@ -4,3 +4,15 @@
 .projects-container #projects-tag {
     font-size: 60px;
 }
+
+.project-details-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.project-spacer {
+    /* height: 40px; */
+    margin: 140px;
+}
