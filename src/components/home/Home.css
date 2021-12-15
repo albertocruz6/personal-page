@@ -5,5 +5,5 @@
 }
 
 .home-container #welcome-tag { 
-    font-size: 60px;
+    font-size: 60px; white-space: nowrap;
 }
