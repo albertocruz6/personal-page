@@ -19,7 +19,7 @@ const Home = () => {
 }
 
 const animation = keyframes`
-    0% {opacity: 0; transform: translateY(-100px) skewY(20deg);}
+    0% {opacity: 0; transform: translateY(-100px) skewY(20deg); color: red}
     25% {opacity: 1;transform: translateY(0px) skewY(0deg);}
     75% {opacity: 1;transform: translateY(0px) skewY(0deg);}
     100% {opacity: 0;transform: translateY(-100px) skewY(10deg);}

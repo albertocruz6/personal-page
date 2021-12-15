@@ -1,7 +1,28 @@
 .about-container {
     padding: 4rem 8rem;
-    display: inline-block;
 }
 .about-container #about-tag { 
-    font-size: 60px;
+    font-size: 60px; white-space: nowrap;
+}
+
+.about-details {
+    display: flex;
+    flex-direction: row;
+}
+.about-details-list {
+    flex-grow: 1;
+}
+
+.about-details-list ul {
+    list-style: square;
+    font-size: 20px;
+}
+
+.about-details-list ul li {
+    padding: 0.3rem;
+}
+
+#PFP {
+    border-radius: 20%;
+    flex-grow: 1;
 }
