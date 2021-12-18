@@ -16,7 +16,7 @@ const Projects = () => {
                         </a>
                     </div>
                     <div className='pes-image'>
-                        <a href="https://luz-verde-frontend.herokuapp.com/about" id='pes-logo-link'>
+                        <a href="https://luz-verde-frontend.herokuapp.com" id='pes-logo-link'>
                             <img src={pesLogo} alt="pes-logo" id='pes-logo' width='300' height='208'/>
                         </a>
                     </div>
