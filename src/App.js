@@ -17,7 +17,7 @@ function App() {
       <Header/>
       <main style={{marginTop: '65px'}}>
      <Routes>
-       <Route path="/personal-page" element={<Home/>}/>
+       <Route path="/" element={<Home/>}/>
        <Route path="/about" element={<About/>}/>
        <Route path="/projects" element={<Projects/>}/>
      </Routes>

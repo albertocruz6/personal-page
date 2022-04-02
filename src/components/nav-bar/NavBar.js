@@ -15,7 +15,7 @@ const NavBar = ({sideBarClickHandler}) => {
             <div className='nav-bar__items'>
                 <ul>
                     <li>
-                        <Link to="/personal-page">Home</Link>
+                        <Link to="/">Home</Link>
                     </li>
                     <li>
                         <Link to="/about">About</Link>
