@@ -20,7 +20,7 @@ const About = () => {
                         <li>Studies in: <b>University of Puerto Rico - Mayaguez Campus</b></li>
                         <ul>
                             <li>Majors in: <b>Computer Science and Enginnerring (CSE) and Electrical Engineering (EE)</b></li>
-                            <li>Year: <b>4th (Junior)</b> <i>5 year program</i></li>
+                            <li>Year: <b>5th (Senior!)</b> <i>5 year program</i></li>
                         </ul>
 
                     </ul>
