@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d26b6593.chunk.css",
-    "main.js": "/static/js/main.1d2f18d3.chunk.js",
-    "main.js.map": "/static/js/main.1d2f18d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6fbd8991.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6fbd8991.js.map",
-    "static/js/2.ffdc3ffe.chunk.js": "/static/js/2.ffdc3ffe.chunk.js",
-    "static/js/2.ffdc3ffe.chunk.js.map": "/static/js/2.ffdc3ffe.chunk.js.map",
-    "static/js/3.6056c076.chunk.js": "/static/js/3.6056c076.chunk.js",
-    "static/js/3.6056c076.chunk.js.map": "/static/js/3.6056c076.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d26b6593.chunk.css.map": "/static/css/main.d26b6593.chunk.css.map",
-    "static/js/2.ffdc3ffe.chunk.js.LICENSE.txt": "/static/js/2.ffdc3ffe.chunk.js.LICENSE.txt",
-    "static/media/peslogo.cd78762e.png": "/static/media/peslogo.cd78762e.png",
-    "static/media/pfp.cdf576f4.png": "/static/media/pfp.cdf576f4.png"
+    "main.css": "/personal-page/static/css/main.d26b6593.chunk.css",
+    "main.js": "/personal-page/static/js/main.1d2f18d3.chunk.js",
+    "main.js.map": "/personal-page/static/js/main.1d2f18d3.chunk.js.map",
+    "runtime-main.js": "/personal-page/static/js/runtime-main.b1b89624.js",
+    "runtime-main.js.map": "/personal-page/static/js/runtime-main.b1b89624.js.map",
+    "static/js/2.abd7bb24.chunk.js": "/personal-page/static/js/2.abd7bb24.chunk.js",
+    "static/js/2.abd7bb24.chunk.js.map": "/personal-page/static/js/2.abd7bb24.chunk.js.map",
+    "static/js/3.6056c076.chunk.js": "/personal-page/static/js/3.6056c076.chunk.js",
+    "static/js/3.6056c076.chunk.js.map": "/personal-page/static/js/3.6056c076.chunk.js.map",
+    "index.html": "/personal-page/index.html",
+    "static/css/main.d26b6593.chunk.css.map": "/personal-page/static/css/main.d26b6593.chunk.css.map",
+    "static/js/2.abd7bb24.chunk.js.LICENSE.txt": "/personal-page/static/js/2.abd7bb24.chunk.js.LICENSE.txt",
+    "static/media/peslogo.cd78762e.png": "/personal-page/static/media/peslogo.cd78762e.png",
+    "static/media/pfp.cdf576f4.png": "/personal-page/static/media/pfp.cdf576f4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fbd8991.js",
-    "static/js/2.ffdc3ffe.chunk.js",
+    "static/js/runtime-main.b1b89624.js",
+    "static/js/2.abd7bb24.chunk.js",
     "static/css/main.d26b6593.chunk.css",
     "static/js/main.1d2f18d3.chunk.js"
   ]
