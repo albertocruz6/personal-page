@@ -21,6 +21,7 @@
 .about-details-list ul {
     list-style: square;
     font-size: 20px;
+    
 }
 
 .about-details-list ul li {
@@ -31,11 +32,6 @@
     flex-grow: 2;
 }
 
-/* .about-details-images {
-    flex-grow: 2;
-} */
-
-
 
 .about-details-images img {
     max-height: 300px;
@@ -44,6 +40,14 @@
 #PFP {
     border-radius: 20%;
     flex-grow: 1;
+}
+
+#MS_image {
+    flex-grow: 1;
+}
+
+#about-list-experience {
+    flex-grow: 2;
 }
 
 @media (max-width: 768px){ 
@@ -73,6 +77,10 @@
 
     .about-details-images img {
         width: 100%;
+    }
+
+    .about-details-list ul{
+        padding-left: 10px;
     }
 
 }
