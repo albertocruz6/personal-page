@@ -7,3 +7,19 @@
 .home-container #welcome-tag { 
     font-size: 60px; white-space: nowrap;
 }
+
+@media (max-width: 768px){ 
+    .home-container {
+        /* display: none; */
+        padding: 0 0rem 0 1.5rem;
+        display: flex;
+        flex-flow: column nowrap;
+        width: 95%;
+    }
+    .home-body {
+        display: flex;
+        flex-flow: column nowrap;
+        width: 90%;
+    }
+
+}

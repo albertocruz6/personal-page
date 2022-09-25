@@ -1,10 +1,15 @@
+.header {
+    width: 100%;
+    z-index: 50;
+}
+
 .footer{
     text-align: center;
     width: 100%;
     height: 55px;
     /* position:absolute; */
     left:0;
-    bottom:0;
+    bottom:0%;
     right:0;
 }
 
@@ -37,12 +42,38 @@
 body {
     color: white;
     background-color:black;
-    /* display: flex; */
-    overflow-x: auto;
+    display: flex;
+    flex-flow: column nowrap;
+    /* overflow-x: auto; */
     /* white-space: nowrap; */
 }
   
 
-.container {
+.container,
+main {
     min-height: calc(100vh - 170px);
+}
+
+@media (max-width: 768px){ 
+    body {
+        /* display: none; */
+        display: flex;
+        flex-flow: column nowrap;
+        width: 100%;
+    }
+    #watermark {
+        position: absolute;
+        top: 50%;
+        left: 20%;
+        font-size: 50px;
+    }
+    .header{
+        width: 100%;
+    }
+    main {
+        width: 95%;
+    }
+    body iframe {
+        width: 95%;
+    }
 }

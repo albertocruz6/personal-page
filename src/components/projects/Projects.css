@@ -19,8 +19,25 @@
 
 
 .pes-image:hover,
-.pes-image:active,
-.aon-image:hover,
-.aon-image:active {
+.pes-image:active {
    background: rgba(64, 64, 65, 0.3);
+}
+
+@media (max-width: 768px){ 
+    .projects-container {
+        /* display: none; */
+        padding: 0 0rem 0 1.5rem;
+        display: flex;
+        flex-flow: column nowrap;
+        width: 95%;
+    }
+    .projects-details {
+        display: flex;
+        flex-flow: column nowrap;
+        width: 90%;
+    }
+    .projects-container #projects-tag {
+        font-size: 40px;
+    }
+
 }
