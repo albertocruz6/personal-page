@@ -12,7 +12,7 @@ const Home = () => {
                 <span key={index}>{item}</span>
             ))}</Wrapper></h1>
             <div className='home-body'>
-                <p>A page made with react-native. Just to prove I can make websites...</p>
+                <p>A page made with reactJS. Just to prove I can make websites...</p>
             </div>
         </div>
     )
