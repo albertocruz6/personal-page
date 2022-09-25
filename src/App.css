@@ -27,7 +27,7 @@
 }
 
 
-#watermark { position: absolute; top: 35%;
+#watermark { position: fixed; top: 35%;
     left: 35%;  font-size: 100px; opacity: 0.5; white-space: nowrap;
     z-index: -100;
 }
@@ -62,7 +62,7 @@ main {
         width: 100%;
     }
     #watermark {
-        position: absolute;
+        position: fixed;
         top: 50%;
         left: 20%;
         font-size: 50px;
