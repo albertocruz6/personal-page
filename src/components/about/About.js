@@ -31,7 +31,7 @@ const About = () => {
             </div>
             <div className='about-details'>
                 <div id='MS_image' className='about-details-images'>
-                    <iframe src="https://giphy.com/embed/l41YcLtmnhYyUlbfq" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+                    <iframe title='MS GIF' src="https://giphy.com/embed/l41YcLtmnhYyUlbfq" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
                 </div>
                 <div className='about-details-list'>
                     <ul>
